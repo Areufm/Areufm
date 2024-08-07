@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi! Nice to see you!  👋
+### 🗒 Blog
 
-<!--
-**Areufm/Areufm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [Master-Ye](https://www.masterye.xyz/) ( Both tech & life ）
+### 👨‍🎓 About Me
 
-Here are some ideas to get you started:
+- CS Student
+- Learning
+- A Man Who Is Still Climbing
+- Understanding The World
+### 💡 Languages And Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+        ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)              
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
