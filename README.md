@@ -1,5 +1,8 @@
 ### Hi! Nice to see you!  👋
 
+### 🏠 My Blog
+- [Areufm's Blog](https://blog-ivory-rho.vercel.app/) (Need to use VPN)
+
 ### 👨‍💻 About Me
 
 - Front-End Enthusiast
@@ -23,9 +26,9 @@
 <h2 align="center"> Github Statistics 📈 </h2>
 <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Areufm&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Areufm&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=vue&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areufm&theme=transparent&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areufm&theme=vue&line_height=40&show_icons=true&hide=cmake"/>
     </a>
 </div>
