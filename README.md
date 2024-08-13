@@ -19,7 +19,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs) ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 
