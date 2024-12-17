@@ -1,4 +1,10 @@
-### Hi! Nice to see you!  👋
+
+<div align="center">
+  <a href="https://kedreamix.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=835&lines=print(Hi%2C+my+nickname+is+Areufm)👋;Welcome+to+my+github!;Nice+to+see+u~&center=true&size=25" />
+  </a>
+
+</div>
 
 ### 🏠 My Blog
 - [Areufm's Blog](https://blog-ivory-rho.vercel.app/) (Need to use VPN)
