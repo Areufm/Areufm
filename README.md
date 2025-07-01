@@ -1,9 +1,8 @@
 
 <div align="center">
-  <a href="https://kedreamix.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=835&lines=print(Hi%2C+my+nickname+is+Areufm)👋;Welcome+to+my+github!;Nice+to+see+u~&center=true&size=25" />
+  <a href="https://blog-ivory-rho.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&width=835&lines=print(Hi%2C+my+nickname+is+Areufm)%F0%9F%91%8B;Welcome+to+my+github!;Nice+to+see+u~&center=true&size=25" />
   </a>
-
 </div>
 
 ### 🏠 My Blog
@@ -22,10 +21,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)              ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)            ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindCss)
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
