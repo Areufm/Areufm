@@ -15,6 +15,10 @@
 - A Man Who Never Stops Climbing
 - Passionate About Music and Code
 
+### 💻 Internship
+- ByteDance——FE 2025.02-Now
+- AIIT——FE 2024.09-2024.12
+
 ### 💡 Languages And Tools
 
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs) 
