@@ -16,7 +16,7 @@
 - Passionate About Music and Code
 
 ### 💻 Internship
-- ByteDance——FE 2025.02-Now
+- ByteDance——FE 2025.02-2025.12
 - AIIT——FE 2024.09-2024.12
 
 ### 💡 Languages And Tools
